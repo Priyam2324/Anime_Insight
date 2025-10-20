@@ -4,7 +4,7 @@
 [![Backend Deployed on](https://img.shields.io/badge/Backend%20Logic-Hugging%20Face%20Spaces-yellow)](https://huggingface.co/spaces/Priyam2307/Anime_Insight_BE)
 [![Made with](https://img.shields.io/badge/Made%20with-Gemini%20API%20%26%20spaCy-informational)](https://ai.google.dev/gemini-api)
 
-**Anime Insight** is a specialized web application that generates **nuanced, balanced, and spoiler-free thematic summaries** of anime and manga. It achieves this by combining official community scores with localized theme extraction and advanced Large Language Model (LLM) synthesis, providing high-quality analysis that reflects community consensus.
+**Anime Insight** is a specialized web application that generates **nuanced, balanced, and spoiler-free thematic summaries** of anime and manga reviews. It achieves this by combining official community scores with localized theme extraction and advanced Large Language Model (LLM) synthesis, providing high-quality analysis that reflects community consensus.
 
 ---
 
